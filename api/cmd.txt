@@ -1,0 +1,3 @@
+uvicorn data_sample:app 
+
+uvicorn main:app --reload
