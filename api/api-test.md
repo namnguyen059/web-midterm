@@ -3,7 +3,7 @@ curl -X GET "http://127.0.0.1:8000/products/" \
 -H "Content-Type: application/json"
 
 ## 2. Tạo Order
-# Một sản phẩm
+*Một sản phẩm*
 curl -X POST "http://127.0.0.1:8000/orders/" \
 -H "Content-Type: application/json" \
 -d '{
@@ -13,7 +13,7 @@ curl -X POST "http://127.0.0.1:8000/orders/" \
   ]
 }'
 
-# Nhiều sản phẩm
+*Nhiều sản phẩm*
 curl -X POST "http://127.0.0.1:8000/orders/" \
 -H "Content-Type: application/json" \
 -d '{
