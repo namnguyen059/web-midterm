@@ -5,12 +5,12 @@ This repository provides a structured guide for setting up **MongoDB 7.0**, mana
 ---
 
 ## **Table of Contents**  
-1. [Prerequisites](#prerequisites)  
-2. [Installation and Configuration](#installation-and-configuration)  
-3. [Starting and Stopping MongoDB Services](#starting-and-stopping-mongodb-services)  
-4. [Replica Sets and Sharding Setup](#replica-sets-and-sharding-setup)  
-5. [Sharding Configuration](#sharding-configuration)  
-6. [Essential MongoDB Operations](#essential-mongodb-operations)  
+1. [Prerequisites](#1-prerequisites)  
+2. [Installation and Configuration](#2-installation-and-configuration)  
+3. [Starting and Stopping MongoDB Services](#3-starting-and-stopping-mongodb-services)  
+4. [Replica Sets and Sharding Setup](#4-replica-sets-and-sharding-setup)  
+5. [Sharding Configuration](#5-sharding-configuration)  
+6. [Essential MongoDB Operations](#6-essential-mongodb-operations)  
 
 ---
 
